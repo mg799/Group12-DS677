@@ -1,2 +1,2 @@
 # Group12-DS677
-# Members: Dolpho, Sai, Mansukh
+# Members: Rudolph, Sai, Mansukh
